@@ -27,7 +27,8 @@
 
 <h2>Getting Started:</h2>
 <p>In order to run the project you just need to add APP_KEY and APP_SECRET which is located in kinvey.json and after that run npm install.</p>
-<img src="https://user-images.githubusercontent.com/28908397/58368017-5af80d00-7eef-11e9-808b-cc565fbd35bf.JPG" alt="kinvey">
+<img src="![Capture](https://user-images.githubusercontent.com/28908397/58368076-7c0d2d80-7ef0-11e9-9c62-bee5756b1c0a.JPG)
+" alt="kinvey">
 
 	
 <h2>Set up Kinvey:</h2>
@@ -39,12 +40,10 @@
 
 
 <p>In order to be able to keep track of the tickets of each movie, you need to allow all users to edit this collection. So go to the properties of the collection:</p>
- <img src="![Capture](https://user-images.githubusercontent.com/28908397/58368064-47997180-7ef0-11e9-8645-6ea9850378d2.JPG)
-" alt="kinvey">
-    
+ <img src="![Capture](https://user-images.githubusercontent.com/28908397/58368064-47997180-7ef0-11e9-8645-6ea9850378d2.JPG)" alt="kinvey">    
 
-    <p>Then go to permissions and edit them to look like this:</p>
- <img src="https://user-images.githubusercontent.com/28908397/58368047-f8ebd780-7eef-11e9-9bb8-d74d8bdddcb8.JPG" alt="kinvey">
+<p>Then go to permissions and edit them to look like this:</p>
+<img src="https://user-images.githubusercontent.com/28908397/58368047-f8ebd780-7eef-11e9-9bb8-d74d8bdddcb8.JPG" alt="kinvey">
 
 
     
