@@ -26,10 +26,8 @@
 </ul>
 
 <h2>Getting Started:</h2>
-<p>In order to run the project you just need to add APP_KEY and APP_SECRET which is located in kinvey.json and after
-    that run npm install.</p>
-
-	![Capture](https://user-images.githubusercontent.com/28908397/58368017-5af80d00-7eef-11e9-808b-cc565fbd35bf.JPG)
+<p>In order to run the project you just need to add APP_KEY and APP_SECRET which is located in kinvey.json and after that run npm install.</p>
+<img src="https://user-images.githubusercontent.com/28908397/58368017-5af80d00-7eef-11e9-808b-cc565fbd35bf.JPG" alt="kinvey">
 
 	
 <h2>Set up Kinvey:</h2>
