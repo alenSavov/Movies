@@ -1,5 +1,9 @@
 <h1>Movies</h1>
 
+
+![movies-demo-min](https://user-images.githubusercontent.com/28908397/58368000-110f2700-7eef-11e9-8d38-3f678ab004e9.gif)
+
+
 <p>The app keeps users and movies. Guests should be able to register and login. Logged-in users should be able to view
     all movies, create movies, buy tickets for the movies, see details about a movie and logout. Logged-in users should
     also be able to edit or delete the movies they have created. There should also be a section where users can see
