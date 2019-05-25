@@ -39,9 +39,12 @@
 
 
 <p>In order to be able to keep track of the tickets of each movie, you need to allow all users to edit this collection. So go to the properties of the collection:</p>
-![Capture](https://user-images.githubusercontent.com/28908397/58367656-98a66700-7eea-11e9-8e01-202a08c8b14a.JPG)
+ <img src="![Capture](https://user-images.githubusercontent.com/28908397/58368064-47997180-7ef0-11e9-8645-6ea9850378d2.JPG)
+" alt="kinvey">
     
 
     <p>Then go to permissions and edit them to look like this:</p>
-    ![Capture](https://user-images.githubusercontent.com/28908397/58367671-b4117200-7eea-11e9-9dd6-555d73d78140.JPG)
+ <img src="https://user-images.githubusercontent.com/28908397/58368047-f8ebd780-7eef-11e9-9bb8-d74d8bdddcb8.JPG" alt="kinvey">
+
+
     
