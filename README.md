@@ -24,6 +24,8 @@
 <h2>Getting Started:</h2>
 <p>In order to run the project you just need to add APP_KEY and APP_SECRET which is located in kinvey.json and after
     that run npm install.</p>
+	<img src="![Capture](https://user-images.githubusercontent.com/28908397/58367740-313ce700-7eeb-11e9-8b37-ca5438e8fd9a.JPG)
+    " alt="kinvey app data">
 
 <h2>Set up Kinvey:</h2>
 <p>Register at Kinvey.com and create an application to keep your data in the cloud.
