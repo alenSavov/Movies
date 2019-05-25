@@ -1,0 +1,2 @@
+# Movies
+Single-page application
