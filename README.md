@@ -42,7 +42,7 @@
 
 <p>In order to be able to keep track of the tickets of each movie, you need to allow all users to edit this collection. So go to the properties of the collection:</p>
 
-![Capture4](https://user-images.githubusercontent.com/28908397/55902429-1e3cb480-5bd4-11e9-98f8-ab1ae4a73bb4.JPG)
+![k2](https://user-images.githubusercontent.com/28908397/55902359-fe0cf580-5bd3-11e9-984e-8931635014e5.JPG)
 
 <p>Then go to permissions and edit them to look like this:</p>
 <img src="https://user-images.githubusercontent.com/28908397/58368047-f8ebd780-7eef-11e9-9bb8-d74d8bdddcb8.JPG" alt="kinvey">
