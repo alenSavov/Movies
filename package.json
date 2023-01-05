@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ember-truth-helpers": "^2.1.0",
+    "ember-truth-helpers": "^3.1.1",
     "handlebars": "^4.1.1",
     "jquery": "^3.3.1",
     "sammy": "^0.7.6"
